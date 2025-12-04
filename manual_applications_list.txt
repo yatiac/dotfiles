@@ -1,0 +1,47 @@
+Applications to Manually Reinstall:
+
+- AltTab.app
+- AnyDesk.app
+- Audacity.app
+- Azure Data Studio.app
+- balenaEtcher.app
+- Bitwarden.app
+- CleanMyMac_5.app
+- Cloudflare WARP.app
+- ColorSlurp.app
+- Creality Print.app
+- Discord.app
+- Elmedia Video Player.app
+- Epic Games Launcher.app
+- Epson Software/
+- GIMP.app
+- GrandPerspective.app
+- Greenshot.app
+- logioptionsplus.app
+- Microsoft Azure Storage Explorer.app
+- Microsoft Defender Shim.app
+- Microsoft Edge.app
+- Microsoft Excel.app
+- Microsoft OneNote.app
+- Microsoft PowerPoint.app
+- Microsoft Teams.app
+- Microsoft Word.app
+- NearDrop.app
+- NetPad.app
+- OneDrive.app
+- Raycast.app
+- Rectangle.app
+- Slack.app
+- Spotify.app
+- Steam.app
+- Tailscale.app
+- The Unarchiver.app
+- TopTracker.app
+- Tunnelblick.app
+- Urban VPN Desktop.app
+- Viscosity.app
+- Visual Studio Code.app
+- Warp.app
+- WhatsApp.app
+- Xcode.app (Install from the Mac App Store)
+- zoom.us.app
